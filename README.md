@@ -10,3 +10,7 @@ Vamos cria um e-commerce, para a empresa x e blablabla
 ## Funcionalidades:
 
 Checkout, tela de produto, catálogo, home com banner e etc...
+
+###### Melhorias do projeto:
+
+Melhoria 1, melhoria 2 ...
