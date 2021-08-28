@@ -39,4 +39,4 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem externa
 
-![Logo do PHP](https://imgur.com/6TaOchz)
+![Logo do PHP](https://imgur.com/a/R86Dsx7)
