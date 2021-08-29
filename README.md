@@ -46,3 +46,5 @@ __Melhoria 1__, _melhoria 2_
 [Google](https://www.google.com.br)
 
 [https://www.google.com.br](https://www.google.com.br)
+
+Contibuidor principal: https://github.com/tlhxfps
