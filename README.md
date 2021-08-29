@@ -50,3 +50,11 @@ __Melhoria 1__, _melhoria 2_
 Contibuidor principal: https://github.com/tlhxfps
 
 [![Logo do PHP](https://i.imgur.com/6TaOchz.png)](https://github.com/tlhxfps)
+
+## Código da função soma
+
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
