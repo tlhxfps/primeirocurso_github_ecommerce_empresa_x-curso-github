@@ -49,4 +49,4 @@ __Melhoria 1__, _melhoria 2_
 
 Contibuidor principal: https://github.com/tlhxfps
 
-Inseriri imagem como link: [![Logo do PHP](https://i.imgur.com/6TaOchz.png)](https://github.com/tlhxfps)
+[![Logo do PHP](https://i.imgur.com/6TaOchz.png)](https://github.com/tlhxfps)
