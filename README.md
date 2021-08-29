@@ -48,3 +48,5 @@ __Melhoria 1__, _melhoria 2_
 [https://www.google.com.br](https://www.google.com.br)
 
 Contibuidor principal: https://github.com/tlhxfps
+
+[![Logo do PHP](https://i.imgur.com/6TaOchz.png)](https://github.com/tlhxfps)
